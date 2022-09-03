@@ -1,1 +1,1 @@
-script that adds
+group owner and others
